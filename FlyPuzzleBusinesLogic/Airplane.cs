@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace FlyPuzzleBusinessLogic
+namespace FlyPuzzleBusinesLogic
 {
-     public class Airplane
+    public class Airplane
     {
         private int _speed;
 

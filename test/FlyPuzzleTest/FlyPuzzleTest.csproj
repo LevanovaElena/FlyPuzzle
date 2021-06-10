@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\FlyPuzzleBusinessLogic\FlyPuzzleBusinessLogic.csproj" />
+    <ProjectReference Include="..\..\FlyPuzzleBusinesLogic\FlyPuzzleBusinesLogic.csproj" />
     <ProjectReference Include="..\..\src\FlyPuzzle\FlyPuzzle.csproj" />
   </ItemGroup>
 

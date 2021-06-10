@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FlyPuzzleBusinessLogic
+namespace FlyPuzzleBusinesLogic
 {
-    public class Jet :Airplane
+    public class Jet : Airplane
     {
         public int Multiplier { get; set; } = 2;
 
